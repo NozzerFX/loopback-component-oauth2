@@ -36,6 +36,8 @@
       "enum": ["bearer", "jwt", "mac"]
     },
     "clientSecret": "string",
+    "clientPrivateKey": "string",
+    "clientPublicKey": "string",
     "clientName": "string",
     "clientURI": "string",
     "logoURI": "string",
